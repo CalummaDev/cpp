@@ -1,0 +1,3 @@
+﻿  source.cpp
+D:\Programmation\Chapter03\Try_This04\Try_This04\source.cpp(8,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Try_This04.vcxproj -> D:\Programmation\Chapter03\Try_This04\Try_This04\x64\Debug\Try_This04.exe
